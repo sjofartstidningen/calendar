@@ -51,7 +51,7 @@ class Calendar
 
     private function loadDependecies()
     {
-        $root = $this->settings['packageRoot'];
+        $root = $this->settings['pluginRoot'];
 
         require_once $root . 'includes/class-i18n.php';
         require_once $root . 'includes/class-loader.php';
