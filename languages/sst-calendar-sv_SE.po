@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sjöfartstidningen Kalender\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-11 13:00+0000\n"
+"PO-Revision-Date: 2018-10-11 13:00+0000\n"
+"Last-Translator: admin <admin@sjofartstidningen.se>\n"
+"Language-Team: Svenska\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-post-type.php:28 includes/class-post-type.php:47
+msgid "Calendar"
+msgstr "Kalender"
+
+#: includes/class-post-type.php:29
+msgid "Event"
+msgstr "Event"
+
+#: includes/class-post-type.php:30
+msgctxt "Event"
+msgid "Create new"
+msgstr "Skapa nytt"
+
+#: includes/class-post-type.php:31
+msgid "Add new Event"
+msgstr "Lägg till nytt event"
+
+#: includes/class-post-type.php:32
+msgid "Edit Event"
+msgstr "Redigera event"
+
+#: includes/class-post-type.php:33
+msgid "New Event"
+msgstr "Nytt event"
+
+#: includes/class-post-type.php:34
+msgid "View Event"
+msgstr "Visa event"
+
+#: includes/class-post-type.php:35
+msgid "View Calendar"
+msgstr "Visa kalendern"
+
+#: includes/class-post-type.php:36
+msgid "Search Calendar"
+msgstr "Sök i kalendern"
+
+#: includes/class-post-type.php:37
+msgid "No events found."
+msgstr "Inga event"
+
+#: includes/class-post-type.php:38
+msgid "No events found in Trash"
+msgstr "Inga event i papperskorgen"
+
+#: includes/class-post-type.php:39
+msgid "All Events"
+msgstr "Alla event"
+
+#: includes/class-post-type.php:40
+msgid "Calendar Archive"
+msgstr "Kalenderarkiv"
+
+#: includes/class-post-type.php:41
+msgid "Event Attributes"
+msgstr "Eventattribut"
+
+#: includes/class-post-type.php:42
+msgid "Insert into event"
+msgstr "Lägg till i event"
+
+#: includes/class-post-type.php:43
+msgid "Uploaded to this event"
+msgstr "Ladda upp till detta event"
+
+#: includes/class-post-type.php:49
+msgid "A calendar for adding events"
+msgstr "Ett kalenderplugin för att skapa event"
+
+#: includes/class-post-type.php:67
+msgctxt "url slug"
+msgid "calendar"
+msgstr "kalender"
+
+#: includes/class-post-type.php:84
+msgid "Dates"
+msgstr "Datum"
+
+#: includes/class-post-type.php:95 includes/class-post-type.php:213
+msgid "Start date"
+msgstr "Startdatum"
+
+#: includes/class-post-type.php:96
+msgid "Date the event starts (required)"
+msgstr "Datum då eventet startar (krävs)"
+
+#: includes/class-post-type.php:109 includes/class-post-type.php:214
+msgid "End date"
+msgstr "Slutdatum"
+
+#: includes/class-post-type.php:110
+msgid "Date the event end"
+msgstr "Datum då eventet avslutas"
+
+#: includes/class-post-type.php:126
+msgid "Information"
+msgstr "Information"
+
+#: includes/class-post-type.php:134 includes/class-post-type.php:212
+msgid "Organizer"
+msgstr "Arrangör"
+
+#: includes/class-post-type.php:135
+msgid "Who's organizing this event"
+msgstr "Den som arrangerar eventet"
+
+#: includes/class-post-type.php:141
+msgid "Email"
+msgstr "Email"
+
+#: includes/class-post-type.php:142
+msgid "Email for getting in contact with the organizers"
+msgstr "Email för att kontakta arrangören"
+
+#: includes/class-post-type.php:148
+msgid "Homepage"
+msgstr "Hemsida"
+
+#: includes/class-post-type.php:149
+msgid "Url to get more information"
+msgstr "Webbadress för mer information"
+
+#: includes/class-post-type.php:159
+msgid "Location"
+msgstr "Plats"
+
+#: includes/class-post-type.php:167
+msgid "Name"
+msgstr "Namn"
+
+#: includes/class-post-type.php:173
+msgid "Address"
+msgstr "Adress"
+
+#: includes/class-post-type.php:179
+msgid "City"
+msgstr "Stad"
+
+#: includes/class-post-type.php:222
+msgid "Not defined"
+msgstr "Ej definierat"
+
+#. Description of the plugin
+msgid "A calendar plugin"
+msgstr "Ett kalenderplugin"
+
+#. URI of the plugin
+msgid "https://www.sjofartstidningen.se"
+msgstr "https://www.sjofartstidningen.se"
+
+#. Author of the plugin
+msgid "Adam Bergman"
+msgstr "Adam Bergman"
+
+#. Author URI of the plugin
+msgid "https://github.com/adambrgmn"
+msgstr "https://github.com/adambrgmn"

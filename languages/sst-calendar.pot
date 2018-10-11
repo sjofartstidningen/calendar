@@ -1,0 +1,173 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sjöfartstidningen Kalender\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-11 13:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-post-type.php:28 includes/class-post-type.php:47
+msgid "Calendar"
+msgstr ""
+
+#: includes/class-post-type.php:29
+msgid "Event"
+msgstr ""
+
+#: includes/class-post-type.php:30
+msgctxt "Event"
+msgid "Create new"
+msgstr ""
+
+#: includes/class-post-type.php:31
+msgid "Add new Event"
+msgstr ""
+
+#: includes/class-post-type.php:32
+msgid "Edit Event"
+msgstr ""
+
+#: includes/class-post-type.php:33
+msgid "New Event"
+msgstr ""
+
+#: includes/class-post-type.php:34
+msgid "View Event"
+msgstr ""
+
+#: includes/class-post-type.php:35
+msgid "View Calendar"
+msgstr ""
+
+#: includes/class-post-type.php:36
+msgid "Search Calendar"
+msgstr ""
+
+#: includes/class-post-type.php:37
+msgid "No events found."
+msgstr ""
+
+#: includes/class-post-type.php:38
+msgid "No events found in Trash"
+msgstr ""
+
+#: includes/class-post-type.php:39
+msgid "All Events"
+msgstr ""
+
+#: includes/class-post-type.php:40
+msgid "Calendar Archive"
+msgstr ""
+
+#: includes/class-post-type.php:41
+msgid "Event Attributes"
+msgstr ""
+
+#: includes/class-post-type.php:42
+msgid "Insert into event"
+msgstr ""
+
+#: includes/class-post-type.php:43
+msgid "Uploaded to this event"
+msgstr ""
+
+#: includes/class-post-type.php:49
+msgid "A calendar for adding events"
+msgstr ""
+
+#: includes/class-post-type.php:67
+msgctxt "url slug"
+msgid "calendar"
+msgstr ""
+
+#: includes/class-post-type.php:84
+msgid "Dates"
+msgstr ""
+
+#: includes/class-post-type.php:95 includes/class-post-type.php:213
+msgid "Start date"
+msgstr ""
+
+#: includes/class-post-type.php:96
+msgid "Date the event starts (required)"
+msgstr ""
+
+#: includes/class-post-type.php:109 includes/class-post-type.php:214
+msgid "End date"
+msgstr ""
+
+#: includes/class-post-type.php:110
+msgid "Date the event end"
+msgstr ""
+
+#: includes/class-post-type.php:126
+msgid "Information"
+msgstr ""
+
+#: includes/class-post-type.php:134 includes/class-post-type.php:212
+msgid "Organizer"
+msgstr ""
+
+#: includes/class-post-type.php:135
+msgid "Who's organizing this event"
+msgstr ""
+
+#: includes/class-post-type.php:141
+msgid "Email"
+msgstr ""
+
+#: includes/class-post-type.php:142
+msgid "Email for getting in contact with the organizers"
+msgstr ""
+
+#: includes/class-post-type.php:148
+msgid "Homepage"
+msgstr ""
+
+#: includes/class-post-type.php:149
+msgid "Url to get more information"
+msgstr ""
+
+#: includes/class-post-type.php:159
+msgid "Location"
+msgstr ""
+
+#: includes/class-post-type.php:167
+msgid "Name"
+msgstr ""
+
+#: includes/class-post-type.php:173
+msgid "Address"
+msgstr ""
+
+#: includes/class-post-type.php:179
+msgid "City"
+msgstr ""
+
+#: includes/class-post-type.php:222
+msgid "Not defined"
+msgstr ""
+
+#. Description of the plugin
+msgid "A calendar plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.sjofartstidningen.se"
+msgstr ""
+
+#. Author of the plugin
+msgid "Adam Bergman"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/adambrgmn"
+msgstr ""

@@ -1,0 +1,40 @@
+{
+  "name": "sjofartstidningen/sst-calendar",
+  "type": "project",
+  "license": "MIT",
+  "description": "A calendar plugin for www.sjofartstidningen.se",
+  "homepage": "https://sjofartstidningen.se",
+  "authors": [
+    {
+      "name": "Adam Bergman",
+      "email": "adam@fransvilhelm.com",
+      "homepage": "https://github.com/adambrgmn"
+    }
+  ],
+  "config": {
+    "preferred-install": "dist"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "composer/installers": "^1.4",
+    "webdevstudios/cmb2": "dev-master"
+  },
+  "require-dev": {},
+  "autoload": {
+    "files": [
+      "vendor/cmb2/init.php"
+    ]
+  },
+  "extra": {
+    "installer-paths": {
+      "vendor/{$name}/": [
+        "webdevstudios/cmb2"
+      ]
+    }
+  }
+}
